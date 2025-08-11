@@ -43,7 +43,7 @@
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:**(https://linkedin.com/in/yourusername)](https://www.linkedin.com/in/ansh-kumar-704244324)
+- **LinkedIn:** https://www.linkedin.com/in/ansh-kumar-704244324
 - **Email:** anshresostudent123@gmail.com
 
 ---
