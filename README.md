@@ -23,8 +23,7 @@ const ansh = {
   degree:     "B.Tech CSE – 2024 → 2028",
   role:       "Full Stack Developer & Security Enthusiast",
   interests:  ["Supply-chain Security", "AST Parsing", "Competitive Programming", "Basketball 🏀"],
-  currentlyBuilding: "StudySync — a collaborative study platform (React + Node)",
-  funFact:    "I wrote a scanner that audits npm packages in under 2 seconds ⚡",
+  currentlyBuilding: "StudySync — a collaborative study platform (React + Node)"
 };
 ```
 ---
